@@ -1,0 +1,32 @@
+{
+  "name": "rn-otp-code",
+  "version": "0.0.0",
+  "description": "Otp code input for react-native",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marwan-Daghbadj/rn-otp-code.git"
+  },
+  "keywords": [
+    "otp",
+    "react-native",
+    "one",
+    "time",
+    "password",
+    "otp",
+    "text",
+    "otp",
+    "code",
+    "authentication",
+    "verification"
+  ],
+  "author": "Daghbadj Marwan <daghbadjmarwan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marwan-Daghbadj/rn-otp-code/issues"
+  },
+  "homepage": "https://github.com/Marwan-Daghbadj/rn-otp-code#readme"
+}
