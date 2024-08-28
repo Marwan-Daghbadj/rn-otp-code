@@ -32,10 +32,11 @@ const OtpInput: React.FC<OtpInputProps> = ({
 
     if (filteredText.length <= length) {
       setOtp(filteredText);
-    }
-    if (filteredText.length === length) {
       onOtp(filteredText);
     }
+    // if (filteredText.length === length) {
+    //   onOtp(filteredText);
+    // }
   };
 
   return (

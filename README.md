@@ -57,7 +57,7 @@ export default function App() {
 | Prop                  | Type       | Default       | Description                                             |
 | --------------------- | ---------- | ------------- | ------------------------------------------------------- |
 | `length`              | `number`   | `6`           | Number of digits in the OTP                             |
-| `onOtp`               | `function` | `() => {}`    | Callback when the OTP is fully entered                  |
+| `onOtp`               | `function` | `() => {}`    | Callback when the OTP is entered                        |
 | `borderColor`         | `string`   | `'black'`     | Border color of the OTP input cells                     |
 | `filledBorderColor`   | `string`   | `'green'`     | Border color of the OTP cells when filled               |
 | `backgroundColor`     | `string`   | `'#D9D9D9'`   | Background color of the OTP input cells                 |
